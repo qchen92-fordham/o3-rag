@@ -53,4 +53,3 @@ Watch the step-by-step tutorial:
 - deploy the ChatBot on Render (link GitHub with Render, Render will automatically deploy the code) https://o3-rag-6hvz.onrender.com/
 - use V0 to make our ChatBot better looking (by making CURL request to connect Render with V0) https://v0.app/chat/projects/ZtFT4vr0UVx
 - deploy the ChatBot on V0 https://v0-zootopia-bike-rental-chatbot.vercel.app/
-gi
