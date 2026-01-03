@@ -28,6 +28,9 @@ python rag_server.py
 4. Access the application:
 - Web Interface: Visit http://localhost:8080 in your browser to use the chat interface
 - API: Query http://localhost:8080 with CURL
+- Deploy the ChatBot on Render (link GitHub with Render, Render will automatically deploy the code) https://o3-rag-6hvz.onrender.com/
+- Use V0 to make our ChatBot better looking (by making CURL request to connect Render with V0) https://v0.app/chat/projects/ZtFT4vr0UVx
+- Deploy the ChatBot on V0 https://v0-zootopia-bike-rental-chatbot.vercel.app/
 
 Example request:
 
@@ -50,6 +53,4 @@ Watch the step-by-step tutorial:
 - RESTful API endpoints
 - Uses OpenAI's API for embeddings and completion
 - Local document storage in `data/` directory
-- deploy the ChatBot on Render (link GitHub with Render, Render will automatically deploy the code) https://o3-rag-6hvz.onrender.com/
-- use V0 to make our ChatBot better looking (by making CURL request to connect Render with V0) https://v0.app/chat/projects/ZtFT4vr0UVx
-- deploy the ChatBot on V0 https://v0-zootopia-bike-rental-chatbot.vercel.app/
+
